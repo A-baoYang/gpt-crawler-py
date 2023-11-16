@@ -3,6 +3,8 @@ English | [繁體中文](README-zh.md)
 
 ![](https://i.imgur.com/ywvxH5W.gif)
 
+Inspired by: [gpt-crawler](https://github.com/BuilderIO/gpt-crawler) by Builder.io
+
 This repository contains a Python script for web crawling using Playwright. It's designed to automate the process of extracting information from web pages, navigating through links on these pages, and aggregating the data.
 
 ## Prerequisites

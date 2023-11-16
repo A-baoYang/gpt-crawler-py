@@ -3,6 +3,8 @@
 
 ![](https://i.imgur.com/ywvxH5W.gif)
 
+靈感來源: [gpt-crawler](https://github.com/BuilderIO/gpt-crawler)
+
 自動化從網頁提取資訊、遍歷這些頁面上的連結並聚合數據的過程。
 
 ## Prerequisites
