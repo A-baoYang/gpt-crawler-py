@@ -1,6 +1,7 @@
 # Python GPT Crawler
 English | [繁體中文](README-zh.md)
 
+![](https://i.imgur.com/3MCopuM.mp4)
 <video controls>
   <source src="https://i.imgur.com/3MCopuM.mp4" type="video/mp4">
 </video>
