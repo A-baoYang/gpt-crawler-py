@@ -1,10 +1,7 @@
 # Python GPT Crawler
 [English](README-zh.md) | 繁體中文
 
-![](https://i.imgur.com/3MCopuM.mp4)
-<video controls>
-  <source src="https://i.imgur.com/3MCopuM.mp4" type="video/mp4">
-</video>
+![](https://i.imgur.com/ywvxH5W.gif)
 
 自動化從網頁提取資訊、遍歷這些頁面上的連結並聚合數據的過程。
 
