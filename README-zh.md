@@ -1,6 +1,8 @@
 # Python GPT Crawler
 [English](README-zh.md) | 繁體中文
 
+<div align="center"><p>Made with 🧡 by<p><img src="https://i.imgur.com/8ysifyO.png" width="150px"></div>
+
 ![](https://i.imgur.com/ywvxH5W.gif)
 
 靈感來源: [gpt-crawler](https://github.com/BuilderIO/gpt-crawler)
@@ -57,10 +59,10 @@ python main.py
 
 ```python
 config = Config(
-        url="https://www.laplace-ai.com/vision",
-        match="https://www.laplace-ai.com/intro/vision/**",
-        selector="#SITE_PAGES",
-        max_pages_to_crawl=10,
-        output_file_name="output.json"
-    )
+   url="https://www.laplace-ai.com/vision",
+   match="https://www.laplace-ai.com/intro/vision/**",
+   selector="#SITE_PAGES",
+   max_pages_to_crawl=10,
+   output_file_name="output.json"
+)
 ```
