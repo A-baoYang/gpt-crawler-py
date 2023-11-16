@@ -1,7 +1,7 @@
 # Python GPT Crawler
 [English](README-zh.md) | 繁體中文
 
-<div align="center"><p>Made with 🧡 by<p><img src="https://i.imgur.com/8ysifyO.png" width="150px"></div>
+<div align="center"><p>Made with 🧡 by<p><img href="https://www.laplace-ai.com/" src="https://i.imgur.com/8ysifyO.png" width="150px"></div>
 
 ![](https://i.imgur.com/ywvxH5W.gif)
 
